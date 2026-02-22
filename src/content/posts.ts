@@ -18,13 +18,14 @@ export const posts: Post[] = [
     date: "2025-11-15",
     description: "First adventure, camping with a 4 by 4",
     tags: ["roadtrip", "exchange", "Sydney"],
-    coverImage: `${import.meta.env.BASE_URL}images/sea-cliff-bridge.jpg`,
+    coverImage:"",
     location: "Australia",
     tripStart: "12-02-2026",
     tripEnd: "12-02-2026",
     content: `
 # 900 km, 4 days and amazing company
 
+![Coastal view from the road](${import.meta.env.BASE_URL}images/sea-cliff-bridge.jpg)
 Everything tries to kill you in Australia. The spiders, the snakes, the sun. But that's a risk worth taking when the biscuit is this large.
 
 

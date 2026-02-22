@@ -7,7 +7,7 @@ export default function About() {
 
       <div className="flex flex-col sm:flex-row gap-6 mb-8">
       <img
-        src="/images/profile.jpg"
+        src={`${import.meta.env.BASE_URL}images/profile.jpg`}
         alt="Profile photo"
         className="w-24 h-24 rounded-full object-cover flex-shrink-0"
       />

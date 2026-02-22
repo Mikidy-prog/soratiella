@@ -3,8 +3,8 @@ import { ReactNode } from "react";
 
 const navLinks = [
   { to: "/", label: "Home" },
-  { to: "/blog", label: "Blog" },
-  { to: "/about", label: "About" },
+  { to: "/blog", label: "Search" },
+  { to: "/about", label: "About me" },
 ];
 
 export default function Layout({ children }: { children: ReactNode }) {
@@ -15,7 +15,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       <header className="border-b border-border">
         <nav className="max-w-2xl mx-auto px-5 py-5 flex items-center justify-between">
           <Link to="/" className="font-serif text-xl font-bold text-foreground hover:text-primary transition-colors">
-            the journal
+            On the Sora Road
           </Link>
           <ul className="flex gap-6 text-sm">
             {navLinks.map((link) => (
@@ -42,7 +42,7 @@ export default function Layout({ children }: { children: ReactNode }) {
 
       <footer className="border-t border-border">
         <div className="max-w-2xl mx-auto px-5 py-6 text-sm text-muted-foreground text-center">
-          © {new Date().getFullYear()} the journal. Built with simplicity in mind.
+          © {new Date().getFullYear()} On the Sora Road.
         </div>
       </footer>
     </div>
