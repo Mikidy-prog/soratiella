@@ -24,7 +24,7 @@ export default function PostCard({ post }: { post: Post }) {
             </>
           )}
         </div>
-        <h2 className="font-serif text-xl font-bold text-foreground group-hover:text-primary transition-colors mb-1.5">
+        <h2 className="font-serif text-xl font-bold text-blue-900 group-hover:text-primary transition-colors mb-1.5">
           {post.title}
         </h2>
         <p className="text-sm text-muted-foreground leading-relaxed mb-2">

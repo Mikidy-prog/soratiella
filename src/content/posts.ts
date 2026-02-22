@@ -40,20 +40,6 @@ Everything tries to kill you in Australia. The spiders, the snakes, the sun. But
 `,
   },
   {
-    slug: "week-notes-jan-2025",
-    title: "Week Notes: January 1–7",
-    date: "01-01-2026",
-    description: "A quiet week.",
-    tags: ["weeknotes", "journal"],
-    content: `
-# Week Notes: January 1–7
-
-lorem ipsum.
-
-
-`,
-  },
-  {
     slug: "on-writing-more",
     title: "On Writing More",
     date: "2025-10-20",
@@ -62,34 +48,19 @@ lorem ipsum.
     content: `
 # On Writing More
 
-I've been meaning to write more for years. Not professionally — just for myself. To process ideas, document experiences, and practice the craft of putting thoughts into words.
+Have you ever felt like you had life neatly mapped out, only for reality to redraw the whole thing overnight?
 
-## Why Now?
+I have wanted for a long time to write about those redrawings. Not because I have wisdom to offer but because I suspect future-me will look back and realize how spectacularly I misunderstood things. Writing is a record of how I thought, what I felt, and how I tried to make sense of the strange business of being me.
 
-Three reasons:
+I tend to move through life at full speed. My apartment is mostly a charging station between adventures, friends, workouts, and half-formed plans. I love it and I've gained a lot of experience for my age through this lifestyle. The obvious downside of that pace is memory erosion. I look at photos from two years ago and struggle to recall the stories behind them. Add social media algorithms to the mix, and experience slowly morphs into content. Content without any soul.
 
-1. **Memory is unreliable.** I traveled to six countries last year and can barely remember the details of half of them. Writing forces me to pay attention.
+Writing feels like resistance. A way to build memory rather than a profile.
 
-2. **Thinking is clearer on paper.** There's something about writing that untangles messy thoughts. If I can't explain an idea in writing, I probably don't understand it.
+I also want to learn how to tell better stories. Life is already chaotic enough. Shaping experience into narrative forces me to slow down, to decide what mattered and what did not. It is thinking with structure instead of noise.
 
-3. **The internet needs more personal blogs.** Social media rewards hot takes and engagement bait. A blog is the opposite — it's slow, thoughtful, and entirely yours.
+And perhaps selfishly, I hope this nudges others. I spend plenty of time away from friends whose lives are unfolding in fascinating ways. I would love to read their reflections, their confusions, their growth. So I am starting with my own.
 
-## What I'll Write About
-
-No strict rules. Probably:
-
-- **Travel journals** — detailed accounts of trips, with photos
-- **Week notes** — what I'm reading, cooking, thinking about
-- **Essays** — longer pieces on topics I care about
-- **Lists** — books, tools, places, recommendations
-
-## The Setup
-
-I kept this blog intentionally simple. Markdown files, minimal design, no analytics, no comments. Just words.
-
-> "The best writing setup is the one that gets out of your way."
-
-If you're reading this and thinking about starting your own blog — just do it. Don't overthink the platform, the design, or the "niche." Write about what interests you. The rest follows.
+Mostly, this is an exploration so treat it as one. A running commentary from someone still trying to figure things out. Which, as far as I can tell, includes almost everyone.
 
 ---
 

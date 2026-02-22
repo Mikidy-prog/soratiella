@@ -13,7 +13,7 @@ export default function BlogPost() {
 
   return (
     <Layout>
-      {/* Back */}
+      {/* Back */}  
       <Link
         to="/blog"
         className="text-sm text-muted-foreground hover:text-foreground transition-colors mb-6 inline-block"
