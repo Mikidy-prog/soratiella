@@ -20,10 +20,10 @@ export default function Index() {
       {/* Hero */}
       <section className="mb-12">
         <h1 className="font-serif text-4xl font-bold mb-3 text-foreground">
-          the journal
+          On the Sora Road
         </h1>
         <p className="text-muted-foreground text-lg leading-relaxed max-w-lg">
-          Trips, weeks, thoughts, and things worth writing down.
+          Trips, thoughts, and things worth writing down.
         </p>
         <Link
           to="/about"

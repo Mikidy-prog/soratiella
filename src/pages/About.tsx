@@ -6,36 +6,32 @@ export default function About() {
       <h1 className="font-serif text-3xl font-bold mb-6">About</h1>
 
       <div className="flex flex-col sm:flex-row gap-6 mb-8">
-        <div className="w-24 h-24 rounded-full bg-secondary flex-shrink-0 flex items-center justify-center text-2xl text-muted-foreground">
-          ✦
-        </div>
+      <img
+        src="/images/profile.jpg"
+        alt="Profile photo"
+        className="w-24 h-24 rounded-full object-cover flex-shrink-0"
+      />
         <div>
           <p className="text-foreground leading-relaxed mb-4">
-            Hi, I'm the person behind this journal. I write about trips, weekly reflections,
-            and whatever else is on my mind. This blog is intentionally simple — just
-            words, images, and the occasional list.
+            Hi, I write about my trips, reflections,
+            and whatever else is on my mind. I started this blog to have a place
+            to document my adventures and practice writing regularly. I hope it
+            can be a space for honest storytelling and thoughtful reflections for me
+            and entertainment for you :)
           </p>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            When I'm not writing, I'm probably cooking, reading, cycling, or planning
-            the next trip. I believe in traveling slowly, writing honestly, and keeping
-            things uncomplicated.
+            I am currently on an exchange in Sydney, Australia, and will be traveling
+            around the country for the next few months. I also have a long list of other
+            trips and topics I want to write about, so stay tuned!
           </p>
           <div className="flex gap-4 text-sm">
             <a
-              href="https://twitter.com"
+              href="https://www.instagram.com/soratienmikko/?hl=en"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline underline-offset-2"
             >
-              Twitter
-            </a>
-            <a
-              href="https://github.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary hover:underline underline-offset-2"
-            >
-              GitHub
+              Instagram
             </a>
             <a
               href="mailto:hello@example.com"
