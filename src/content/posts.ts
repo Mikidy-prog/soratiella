@@ -18,7 +18,7 @@ export const posts: Post[] = [
     date: "2025-11-15",
     description: "First adventure, camping with a 4 by 4",
     tags: ["roadtrip", "exchange", "Sydney"],
-    coverImage: "/images/sea-cliff-bridge.jpg",
+    coverImage: `${import.meta.env.BASE_URL}images/sea-cliff-bridge.jpg`,
     location: "Australia",
     tripStart: "12-02-2026",
     tripEnd: "12-02-2026",
